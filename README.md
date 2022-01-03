@@ -4,6 +4,8 @@ I currently write for the following Azure services:
 
 * Load Balancer
 * Private Link
+* DNS
+* Traffic Manager
 * CDN
 * Virtual Network NAT
 * IP Services
